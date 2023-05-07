@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AsilbekNorboev
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in databases, web dev, and AI.
+- 🌱 I’m currently learning Javascript, and React.
+- 📫 How to reach me -> asilbeknorboev@gmail.com
 
 <!---
 AsilbekNorboev/AsilbekNorboev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
